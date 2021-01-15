@@ -1,0 +1,203 @@
+
+.top-container{
+  background-color: #212121;
+  margin: 0;
+  position: relative;
+  padding-top: 100px;
+}
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #373a40;
+}
+
+h1.title{
+  color: white;
+}
+
+h2.subtitle{
+  color: white;
+}
+
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  margin-bottom: 20px;
+  color: #0a043c;
+}
+
+.profile{
+  background-color: white;
+}
+
+.skills{
+  background-color: white;
+}
+
+.projects{
+  background-color: white;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #03506f;
+}
+
+
+
+.middle-container{
+
+}
+
+.skill-row{
+  background-color: white;
+  padding: 40px;
+}
+
+.project-row{
+  background-color: white;
+  padding: 40px;
+}
+
+
+
+.bottom-container{
+  background-color:  #30475e;
+  padding-top: 20px;
+  padding-bottom: 10px;
+  margin-bottom: 0;
+}
+
+
+
+.skill-row{
+  width: 50%;
+  margin: 50px auto 5px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.project-row{
+  width: 50%;
+  margin: 50px auto 5px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.type{
+  text-decoration: underline;
+}
+
+.bottem-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 100px;
+}
+
+.personal-photo{
+  padding-top: 30px;
+}
+
+hr{
+  border-top: 7px dotted #0a043c;
+  width: 30%;
+}
+
+.subtitle{
+  font-weight: normal;
+}
+
+.programming-img{
+  width: 25%;
+  float: right;
+  margin-right: 30px;
+  border-radius: 50%;
+
+}
+
+.webdev-img{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.pcb-img{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+
+.cad-img{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.drum-img{
+  width: 25%;
+  float: left;
+  margin-right:30px;
+  border-radius: 50%;
+  margin-bottom: 50px;
+}
+
+.dice-img{
+  width: 25%;
+  float: right;
+  margin-right:30px;
+  border-radius: 50%;
+  margin-bottom: 50px;
+}
+
+.life-sim-img{
+  width: 25%;
+  float: left;
+  margin-right:30px;
+  border-radius: 50%;
+  margin-bottom: 50px;
+}
+
+.copyright{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+}
+
+#title{
+  text-align: right;
+}
+
+.hobbies{
+  margin-top: 100px;
+}
+
+.hobby-img{
+  font-size: 5rem;
+  padding: 50px 50px 150px 50px;
+
+}
+
+
+.hobby-img:hover{
+  font-size: 7rem;
+}
+
+.link-logo:hover{
+  height: 60px;
+
+}
